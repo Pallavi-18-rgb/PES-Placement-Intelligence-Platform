@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "NielsenIQ",
+    "industry": "EdTech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PyTorch",
+        "React",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Vue.js",
+        "GCP",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "GCP",
+        "Rust",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Rust",
+        "Java",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "Next.js",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PyTorch",
+        "AWS",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Java",
+        "Node.js",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Azure",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    }
+  ]
+}

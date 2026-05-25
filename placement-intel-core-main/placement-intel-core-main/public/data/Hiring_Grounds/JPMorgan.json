@@ -1,0 +1,54 @@
+{
+  "company_name": "JPMorgan",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer",
+      "role_category": "SDE",
+      "job_description": "Building scalable systems at JPMorgan.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 3050000,
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "OA",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Q1; Q2; Q3"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Q1; Q2; Q3"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Behavioral",
+          "assessment_mode": "In-person",
+          "skill_sets": [
+            {
+              "skill_set_code": "BEH",
+              "typical_questions": "Why this company?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

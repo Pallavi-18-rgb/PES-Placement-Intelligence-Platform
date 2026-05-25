@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Zepto",
+    "industry": "Automotive"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "GCP",
+        "TypeScript",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "PostgreSQL",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Next.js",
+        "Vue.js",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Python",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Java",
+        "Next.js"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Azure",
+        "Kubernetes",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PostgreSQL",
+        "Go",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Go",
+        "Node.js",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    }
+  ]
+}

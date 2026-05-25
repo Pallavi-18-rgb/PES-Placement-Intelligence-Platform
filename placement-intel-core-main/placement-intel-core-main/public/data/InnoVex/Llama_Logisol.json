@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Llama Logisol",
+    "industry": "Fintech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "AWS",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "Azure",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Go",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "MongoDB",
+        "Next.js",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TypeScript",
+        "Kubernetes",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Go",
+        "Redis",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "GCP",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PostgreSQL",
+        "React",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

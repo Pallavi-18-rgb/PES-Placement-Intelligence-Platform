@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "upGrad",
+    "industry": "Automotive"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Rust",
+        "Docker",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "Redis",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "GCP",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "C++",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "TensorFlow",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Python",
+        "Rust",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TensorFlow",
+        "Kubernetes",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Redis",
+        "Java",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Docker",
+        "GCP",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    }
+  ]
+}

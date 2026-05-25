@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Even Healthcare",
+    "industry": "Automotive"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "Node.js",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Docker",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "MongoDB",
+        "TensorFlow",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Java",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "AWS",
+        "Go",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Rust",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "AWS",
+        "React"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "C++",
+        "Rust"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Motorq",
+    "industry": "Consumer Tech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TensorFlow",
+        "AWS",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "MongoDB",
+        "Azure",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Redis",
+        "Kubernetes",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Java",
+        "Docker",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "React",
+        "Go",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "C++",
+        "Node.js",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "Docker",
+        "React"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Rust",
+        "React",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Kubernetes",
+        "React",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "company_name": "CommonwealthBank",
+  "job_role_details": [
+    {
+      "role_title": "Software Engineer",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "OA",
+          "round_category": "Coding Test"
+        }
+      ]
+    }
+  ]
+}

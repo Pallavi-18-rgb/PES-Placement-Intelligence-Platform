@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+python-dotenv
+pydantic
+json-repair
+groq
+google-generativeai

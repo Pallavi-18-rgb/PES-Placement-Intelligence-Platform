@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "NTT DATA",
+    "industry": "Cloud Infrastructure"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "Redis",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Docker",
+        "AWS",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Vue.js",
+        "React",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "TensorFlow",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TypeScript",
+        "Go",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Kubernetes",
+        "TensorFlow",
+        "React"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Redis",
+        "React",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    }
+  ]
+}

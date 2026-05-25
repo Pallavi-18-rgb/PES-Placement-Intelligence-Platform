@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Myntra",
+    "industry": "Enterprise SaaS"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Rust",
+        "Python",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Java",
+        "TensorFlow",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "TensorFlow",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "GCP",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "GCP",
+        "Azure",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Redis",
+        "Docker",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Vue.js",
+        "TypeScript",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Kubernetes",
+        "C++",
+        "GCP"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "Node.js",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Commonwealth Bank",
+    "industry": "E-commerce"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "PyTorch",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Java",
+        "AWS",
+        "GCP"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "Rust",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "Python",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Node.js",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Azure",
+        "Redis",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "TensorFlow",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Vue.js",
+        "AWS",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    }
+  ]
+}

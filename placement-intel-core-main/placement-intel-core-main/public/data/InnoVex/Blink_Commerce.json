@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Blink Commerce",
+    "industry": "Deep Learning"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "Rust",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "GCP",
+        "MongoDB",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "Redis",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "C++",
+        "Java",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Redis",
+        "Kubernetes",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "React",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    }
+  ]
+}

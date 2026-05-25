@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "SpaceX",
+    "industry": "Deep Learning"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Kubernetes",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "PyTorch",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "Java",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "C++",
+        "Next.js",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Azure",
+        "TypeScript",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "React",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Kubernetes",
+        "Docker",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "React",
+        "PyTorch",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Docker",
+        "TypeScript",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    }
+  ]
+}

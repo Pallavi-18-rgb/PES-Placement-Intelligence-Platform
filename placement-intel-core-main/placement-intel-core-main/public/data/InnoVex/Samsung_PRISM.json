@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Samsung PRISM",
+    "industry": "Cloud Infrastructure"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Rust",
+        "Python",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "AWS",
+        "TypeScript",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "Docker",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "TypeScript",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "Go",
+        "Rust"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "TypeScript",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Azure",
+        "Java",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "GCP",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Companies {
+  id          String   @id @default(uuid())
+  name        String
+  description String?
+  industry    String?
+  tier        String?
+  created_at  DateTime @default(now())
+  jobs        Jobs[]
+}
+
+model Jobs {
+  id               String         @id @default(uuid())
+  company_id       String
+  title            String
+  ctc              String?
+  min_cgpa         Float?
+  allowed_branches String[]
+  allows_backlogs  Boolean        @default(false)
+  created_at       DateTime       @default(now())
+  company          Companies      @relation(fields: [company_id], references: [id])
+  applications     Applications[]
+}
+
+model Applications {
+  id         String   @id @default(uuid())
+  student_id String
+  job_id     String
+  status     String   @default("applied") // applied, shortlisted, rejected, selected
+  applied_at DateTime @default(now())
+  job        Jobs     @relation(fields: [job_id], references: [id])
+}

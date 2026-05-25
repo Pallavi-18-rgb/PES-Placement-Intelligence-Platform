@@ -1,0 +1,7 @@
+test_id,field,validator_type,expected_result
+TC-1.1-01,company_name,regex_format,pass
+TC-1.1-02,short_name,length_check,pass
+TC-4,revenue,business_not_null,pass
+TC-6,status_date,dependency_check,pass
+TC-9,date,temporal_not_future,pass
+TC-12,parent_company,structural_hierarchy,pass

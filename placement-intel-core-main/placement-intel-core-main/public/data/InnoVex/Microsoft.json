@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Microsoft",
+    "industry": "Deep Learning"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "GCP",
+        "Docker",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TensorFlow",
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "C++",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "Next.js",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PostgreSQL",
+        "Azure",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "TypeScript",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "Node.js",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    }
+  ]
+}

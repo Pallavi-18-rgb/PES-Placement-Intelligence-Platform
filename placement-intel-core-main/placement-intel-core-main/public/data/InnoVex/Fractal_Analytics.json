@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Fractal Analytics",
+    "industry": "Consumer Tech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PyTorch",
+        "Docker",
+        "Next.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "AWS",
+        "GCP",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "Go",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "AWS",
+        "PyTorch",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "React",
+        "PostgreSQL",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Azure",
+        "GCP",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TensorFlow",
+        "AWS",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "React",
+        "Python",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Go",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    }
+  ]
+}

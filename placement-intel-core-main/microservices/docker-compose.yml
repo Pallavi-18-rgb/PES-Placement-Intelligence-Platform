@@ -1,0 +1,103 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: placeverse
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - placeverse_net
+
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    networks:
+      - placeverse_net
+
+  api-gateway:
+    build:
+      context: ./api-gateway
+      dockerfile: Dockerfile
+    ports:
+      - "8082:8082"
+    environment:
+      - PORT=8082
+      - JWT_SECRET=dev-secret-key
+      - USER_SERVICE_URL=http://user-service:3001
+      - ELIGIBILITY_SERVICE_URL=http://eligibility-engine:3002
+      - COMPANY_SERVICE_URL=http://company-service:3003
+      - AGENT_SERVICE_URL=http://agent-service:8000
+    depends_on:
+      - user-service
+      - eligibility-engine
+      - company-service
+      - agent-service
+    networks:
+      - placeverse_net
+
+  user-service:
+    build:
+      context: ./user-service
+      dockerfile: Dockerfile
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/placeverse?schema=user
+      - JWT_SECRET=dev-secret-key
+      - PORT=3001
+    depends_on:
+      - postgres
+    networks:
+      - placeverse_net
+
+  eligibility-engine:
+    build:
+      context: ./eligibility-engine
+      dockerfile: Dockerfile
+    environment:
+      - PORT=3002
+      - USER_SERVICE_URL=http://user-service:3001
+    depends_on:
+      - user-service
+    networks:
+      - placeverse_net
+
+  company-service:
+    build:
+      context: ./company-service
+      dockerfile: Dockerfile
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/placeverse?schema=public
+      - PORT=3003
+    depends_on:
+      - postgres
+    networks:
+      - placeverse_net
+
+  agent-service:
+    build:
+      context: ./agent-service
+      dockerfile: Dockerfile
+    environment:
+      - PORT=8001
+      - CHROMA_URL=http://chromadb:8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-mock}
+    depends_on:
+      - chromadb
+    networks:
+      - placeverse_net
+
+volumes:
+  postgres_data:
+  chroma_data:
+
+networks:
+  placeverse_net:
+    driver: bridge

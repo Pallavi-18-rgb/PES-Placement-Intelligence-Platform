@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Virtusa",
+    "industry": "Fintech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "MongoDB",
+        "AWS",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "TensorFlow",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "GCP",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "GCP",
+        "PyTorch",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "MongoDB",
+        "Node.js",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "Go",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Next.js",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Rust",
+        "Vue.js",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    }
+  ]
+}

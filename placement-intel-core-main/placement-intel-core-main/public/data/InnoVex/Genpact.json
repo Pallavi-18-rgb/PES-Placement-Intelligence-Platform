@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Genpact",
+    "industry": "Deep Learning"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "C++",
+        "Node.js",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "PostgreSQL",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "TensorFlow",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "AWS",
+        "Go",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Next.js",
+        "Docker",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Java",
+        "Vue.js",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Java",
+        "Go",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Azure",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "GCP",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    }
+  ]
+}

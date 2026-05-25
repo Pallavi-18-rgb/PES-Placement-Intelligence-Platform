@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "MoveInSync",
+    "industry": "Deep Learning"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Python",
+        "Node.js",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "PostgreSQL",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "PyTorch",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "Node.js",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "GCP"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Redis",
+        "Vue.js",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Python",
+        "Rust",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Rust",
+        "Go",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

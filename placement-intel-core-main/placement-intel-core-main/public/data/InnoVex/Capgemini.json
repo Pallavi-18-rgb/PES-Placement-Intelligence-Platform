@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Capgemini",
+    "industry": "E-commerce"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Next.js",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "C++",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Azure",
+        "AWS",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Vue.js",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "React",
+        "GCP",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "MongoDB",
+        "C++",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "MongoDB",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Python",
+        "Go",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Docker",
+        "Node.js",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

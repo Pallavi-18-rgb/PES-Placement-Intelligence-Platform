@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Acko",
+    "industry": "E-commerce"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "TypeScript",
+        "PyTorch",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "GCP",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Next.js",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "Java",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "React"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "Rust",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Vue.js",
+        "MongoDB",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "React",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    }
+  ]
+}

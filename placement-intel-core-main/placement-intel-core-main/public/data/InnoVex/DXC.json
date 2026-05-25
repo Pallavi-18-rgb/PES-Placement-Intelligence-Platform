@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "DXC",
+    "industry": "Cloud Infrastructure"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PostgreSQL",
+        "React",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PostgreSQL",
+        "Next.js",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PyTorch",
+        "C++",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "GCP",
+        "TensorFlow",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Docker",
+        "Node.js",
+        "React"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "GCP",
+        "TensorFlow",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "TensorFlow",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Next.js",
+        "Redis",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Azure",
+        "Kubernetes",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    }
+  ]
+}

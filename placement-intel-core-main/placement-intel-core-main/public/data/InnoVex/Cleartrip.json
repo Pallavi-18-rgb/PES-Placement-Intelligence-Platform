@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Cleartrip",
+    "industry": "Enterprise SaaS"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Azure",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Azure",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Kubernetes",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "AWS",
+        "Azure",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Vue.js",
+        "TensorFlow",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Go",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Rust",
+        "Azure",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TensorFlow",
+        "Go",
+        "Node.js"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "React",
+        "Azure",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    }
+  ]
+}

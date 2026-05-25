@@ -1,0 +1,21 @@
+{
+  "company_name": "Kyndryl",
+  "job_role_details": [
+    {
+      "role_title": "Software Engineer",
+      "opportunity_type": "Employment",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Technical Test",
+          "round_category": "Coding Test"
+        },
+        {
+          "round_number": 2,
+          "round_name": "Final Interview",
+          "round_category": "Interview"
+        }
+      ]
+    }
+  ]
+}

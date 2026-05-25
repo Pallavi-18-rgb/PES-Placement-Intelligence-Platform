@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Xperi",
+    "industry": "Automotive"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "GCP",
+        "Node.js",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "Rust",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "C++",
+        "Redis",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Sustainable Energy Management",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "TypeScript",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TensorFlow",
+        "GCP",
+        "MongoDB"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Kubernetes",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Vue.js",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "C++",
+        "Node.js",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    }
+  ]
+}

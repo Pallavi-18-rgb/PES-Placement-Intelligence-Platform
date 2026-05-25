@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Freshworks",
+    "industry": "Enterprise SaaS"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "PyTorch",
+        "React",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Docker",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "GCP",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Kubernetes",
+        "GCP",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "PyTorch",
+        "React",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Next.js",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "TypeScript",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PostgreSQL",
+        "Vue.js",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Node.js",
+        "Python",
+        "GCP"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    }
+  ]
+}

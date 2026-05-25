@@ -1,0 +1,33 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: langgraph_backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: langgraph_frontend
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    depends_on:
+      - backend
+
+  orchestration:
+    build:
+      context: .
+      dockerfile: orchestration/Dockerfile
+    container_name: langgraph_orchestration
+    env_file:
+      - .env
+    depends_on:
+      - backend
+    restart: unless-stopped

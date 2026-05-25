@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "JPMorgan",
+    "industry": "E-commerce"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "C++",
+        "Next.js"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Vue.js",
+        "Azure",
+        "Next.js"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "PyTorch",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Redis",
+        "React",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "MongoDB",
+        "AWS",
+        "Redis"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TypeScript",
+        "Node.js",
+        "Vue.js"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TensorFlow",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Go",
+        "React",
+        "Docker"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "AWS",
+        "Rust",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

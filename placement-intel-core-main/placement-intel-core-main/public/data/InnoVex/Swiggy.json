@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Swiggy",
+    "industry": "Enterprise SaaS"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Node.js",
+        "Java",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "AWS",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Python",
+        "GCP",
+        "TensorFlow"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Real-time Fraud Detection System",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Rust",
+        "Python",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Quantum-Safe Encryption Suite",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "TypeScript",
+        "TensorFlow",
+        "Kubernetes"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Edge Computing Network Node",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Python",
+        "Vue.js",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Next.js",
+        "Java",
+        "Azure"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Python",
+        "Azure",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "Azure",
+        "React"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Darwinbox",
+    "industry": "Consumer Tech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Docker",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Kubernetes",
+        "MongoDB",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Go",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "Azure",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "Next.js"
+      ]
+    },
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "AWS",
+        "TensorFlow",
+        "GCP"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Node.js",
+        "MongoDB",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "High-Frequency Trading Engine",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PyTorch",
+        "Next.js",
+        "TypeScript"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "AI-Driven Supply Chain Optimizer",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "Docker",
+        "React",
+        "PyTorch"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "TypeScript",
+        "Node.js",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

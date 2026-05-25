@@ -1,0 +1,116 @@
+{
+  "innovx_master": {
+    "company_name": "Concentrix",
+    "industry": "EdTech"
+  },
+  "innovx_projects": [
+    {
+      "project_name": "Next-Gen Recommendation Core",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "AWS",
+        "Node.js",
+        "Rust"
+      ],
+      "frontend_technologies": [
+        "Vue.js"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "Docker",
+        "GCP",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 1",
+      "backend_technologies": [
+        "React",
+        "TensorFlow",
+        "Python"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Security Mesh",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Next.js",
+        "Docker",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Autonomous Warehouse Robotics",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Redis",
+        "AWS",
+        "Java"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Digital Twin City Simulation",
+      "tier_level": "Tier 2",
+      "backend_technologies": [
+        "Vue.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "frontend_technologies": [
+        "React Native"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "C++",
+        "GCP",
+        "Go"
+      ],
+      "frontend_technologies": [
+        "React"
+      ]
+    },
+    {
+      "project_name": "Blockchain-based Credential Verifier",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PyTorch",
+        "Java",
+        "AWS"
+      ],
+      "frontend_technologies": [
+        "Svelte"
+      ]
+    },
+    {
+      "project_name": "Predictive Maintenance Platform",
+      "tier_level": "Tier 3",
+      "backend_technologies": [
+        "PyTorch",
+        "TensorFlow",
+        "C++"
+      ],
+      "frontend_technologies": [
+        "Angular"
+      ]
+    }
+  ]
+}

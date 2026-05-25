@@ -1,0 +1,16 @@
+{
+  "name": "PES PlaceIntel",
+  "short_name": "PlaceIntel",
+  "description": "PES Placement Intelligence — Enterprise decision-grade campus hiring analytics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

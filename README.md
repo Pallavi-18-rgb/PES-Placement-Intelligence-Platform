@@ -12,7 +12,7 @@ This project bridges the gap between academic theory and production engineering.
 *Directory: `/pytest_project`*
 - **Description:** A highly scalable testing architecture designed to ensure absolute data integrity.
 - **Tech Stack:** Python, Pytest.
-- **Scale:** Automatically generates **2,000+ validation checks** across the entire parameter system, catching schema deviations and logic errors before they hit production.
+- **Scale:** Automatically generates **1,300+ validation checks** across the entire parameter system, catching schema deviations and logic errors before they hit production.
 
 ### 2. Complete Agentic Ecosystem (AI Orchestration)
 *Directory: `/LANGGRAPH`*
@@ -24,7 +24,7 @@ This project bridges the gap between academic theory and production engineering.
 *Directory: `/placement-intel-core-main`*
 - **Description:** The backbone of the platform, scaling from parameter discovery to deployment.
 - **Tech Stack:** React, Node.js, Supabase, PostgreSQL, Docker, FastAPI.
-- **Highlights:** Distributed data across **100+ normalized relational tables** and packaged the AI/Backend systems into containerized services for cloud-native deployment.
+- **Highlights:** Distributed data across **various normalized relational tables** and packaged the AI/Backend systems into containerized services for cloud-native deployment.
 
 ## ⚙️ Key Learnings
 - Transitioning from simple scripts to **enterprise-grade system design**.
